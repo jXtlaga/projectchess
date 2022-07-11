@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DCF03CB6-A0F5-4612-863C-7284907E94F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B823F7A-9DFD-457A-B448-ECB9CAE190F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WutangViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "WutangViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BergmanViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "BergmanViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7 - ad3b4ac5aaadb87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.BergmanViewController.przemianakolor.getter : Swift.String"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/BergmanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7 - ed5de08e4805d273"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.BergmanViewController.przemianakolor.setter : Swift.String"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/BergmanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7 - 4443f3165f2ff602"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.BergmanViewController.przemianakolor.modify : Swift.String"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/BergmanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7 - 7cc4be34f8209b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.BergmanViewController.przemianakolor.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/BergmanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7 - d9999f0adc5a74d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.BergmanViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; projectchess.BergmanViewController"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/BergmanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "4032">
+               </Location>
+               <Location
+                  uuid = "B30D03EF-A682-44BE-9FFB-A31E90D1F3B7 - ef93047cfd1c3d20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.BergmanViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;projectchess.BergmanViewController&gt;"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/BergmanViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "4008">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            uuid = "59371F45-D674-40D0-B4E1-57D0AF412A76"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x1046739e8">
+            <Locations>
+               <Location
+                  uuid = "59371F45-D674-40D0-B4E1-57D0AF412A76 - cf0b1c6d87bc2227"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "projectchess.WutangViewController.rozkmina(l1: Swift.Int, l2: Swift.Int, mat: Swift.Bool) -&gt; ()"
+                  moduleName = "projectchess"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jantlaga/Documents/xcode/projectchess/WutangViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "671"
+                  endingLineNumber = "671"
+                  offsetFromSymbolStart = "19304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3087B6DA-70E6-4D58-82AC-5CA23D2D1EEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WutangViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "650"
+            endingLineNumber = "650"
+            landmarkName = "rozkmina(l1:l2:mat:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
